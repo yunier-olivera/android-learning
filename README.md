@@ -1,11 +1,11 @@
 # Android Learning Journey
 
-Personal repository for learning Android native development through deliberate practice. Following the "concept hammering" approach - building multiple variations of the same concept until mastery.
+Personal repository for learning Android native development through deliberate practice. Following the "concept drilling" approach - building multiple variations of the same concept until mastery.
 
 ## Learning Philosophy
 
 - **No tutorials** - learn by building
-- **Repetition over variety** - hammer concepts until boring
+- **Repetition over variety** - drill concepts until boring
 - **Depth-first** - master one thing before moving on
 - **Delete when done** - practice code, not portfolio
 
@@ -79,9 +79,11 @@ Personal repository for learning Android native development through deliberate p
 
 **Total Projects:** 0/36
 
-## Hammering Sessions
+## Drilling Sessions
 
 (Created when stuck on specific concepts - multiple variations to master)
+
+See [docs/drilling.md](docs/drilling.md) for the full strategy.
 
 ## Key Learnings
 
