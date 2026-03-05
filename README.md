@@ -12,7 +12,7 @@ Personal repository for learning Android native development through deliberate p
 ## Project Structure
 
 ### 01 - Hello World Variations
-- [ ] hello-world - Display text, change to name
+- [x] hello-world - Display text, change to name
 - [ ] current-date - Show current date/time
 - [ ] random-number - Generate random number on open
 
@@ -73,11 +73,11 @@ Personal repository for learning Android native development through deliberate p
 
 ## Progress Tracking
 
-**Current:** Section 1, Project 1
+**Current:** Section 1, Project 2
 
 **Completed Sections:** 0/12
 
-**Total Projects:** 0/36
+**Total Projects:** 1/36
 
 ## Drilling Sessions
 
@@ -87,7 +87,7 @@ See [docs/drilling.md](docs/drilling.md) for the full strategy.
 
 ## Key Learnings
 
-- Section 01: [learning note]
+- Section 01: `Column`/`Box` for layout, `Modifier` chain order matters, `@Preview` is independent from the running app, `fillMaxSize()` needed for centering to work
 - Section 02: [learning note]
 
 ## Tech Stack
